@@ -1,0 +1,24 @@
+MERN Project Boot Store
+
+>> Features 
+
+Frontend >> Backend
+
+1. Admin Dashboard
+2. Cash On delivery Feaatures
+3. Inventory Managment
+
+
+>> Technology Used
+1. Tailwind CSS
+2. Redux & RTK Query
+3. Mongoose
+4. JWT and more
+5. MERN
+
+
+>> Project Progress
+1. Frontend UI
+2. Backend
+3. modify client Side
+4. Dashboard
